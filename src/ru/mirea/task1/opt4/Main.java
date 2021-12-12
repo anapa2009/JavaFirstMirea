@@ -1,5 +1,5 @@
 package ru.mirea.task1.opt4;
-import java.util.Scanner; // импортируем класс
+import java.util.Scanner; // импортируем класс//
 public class Main {
     public static void main (String [] args) {
 
