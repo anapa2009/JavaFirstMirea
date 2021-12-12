@@ -41,7 +41,7 @@ public class Main {
 
         System.out.println("Введен массив данных:");
         for (int ij = 0; ij < arr.length; ij++)
-            //System.out.println(arr[ij]);//
+            //System.out.println(arr[ij]);
             System.out.print(arr[ij]+" ");
 
         System.out.println(" ");
